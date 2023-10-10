@@ -1,7 +1,7 @@
-F:\new_Workspace\taxCalcualtor\src\main\java\com\imaginnovate\taxCalculator\repo\EmployeeRepo.java
-F:\new_Workspace\taxCalcualtor\src\main\java\com\imaginnovate\taxCalculator\model\Employee.java
-F:\new_Workspace\taxCalcualtor\src\main\java\com\imaginnovate\taxCalculator\model\EmployeeVo.java
-F:\new_Workspace\taxCalcualtor\src\main\java\com\imaginnovate\taxCalculator\service\EmployeeService.java
-F:\new_Workspace\taxCalcualtor\src\main\java\com\imaginnovate\taxCalculator\service\EmployeeServiceImpl.java
-F:\new_Workspace\taxCalcualtor\src\main\java\com\imaginnovate\taxCalculator\controller\TaxCalculatorController.java
-F:\new_Workspace\taxCalcualtor\src\main\java\com\imaginnovate\taxCalculator\TaxCalculatorApplication.java
+E:\interviews\EmpTaxCalculator\src\main\java\com\imaginnovate\emptaxcalculator\model\EmployeeVo.java
+E:\interviews\EmpTaxCalculator\src\main\java\com\imaginnovate\emptaxcalculator\controller\EmployeeTaxCalculatorController.java
+E:\interviews\EmpTaxCalculator\src\main\java\com\imaginnovate\emptaxcalculator\repo\EmployeeRepo.java
+E:\interviews\EmpTaxCalculator\src\main\java\com\imaginnovate\emptaxcalculator\model\Employee.java
+E:\interviews\EmpTaxCalculator\src\main\java\com\imaginnovate\emptaxcalculator\service\EmployeeService.java
+E:\interviews\EmpTaxCalculator\src\main\java\com\imaginnovate\emptaxcalculator\EmployeeTaxCalculator.java
+E:\interviews\EmpTaxCalculator\src\main\java\com\imaginnovate\emptaxcalculator\service\EmployeeServiceImpl.java

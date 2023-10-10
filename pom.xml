@@ -9,11 +9,11 @@
 		<version>2.7.3</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.imaginnovate.taxCalculator</groupId>
-	<artifactId>taxCalculator</artifactId>
+	<groupId>com.imaginnovate.emptaxcalculator</groupId>
+	<artifactId>emptaxcalculator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>taxCalculator</name>
-	<description>Sample project for Employee tax calculation</description>
+	<name>emptaxcalculator</name>
+	<description>Tax Calculator for Employee</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -37,11 +37,11 @@
 			<scope>runtime</scope>
 			<optional>true</optional>
 		</dependency>
-		<dependency>
-			<groupId>org.postgresql</groupId>
-			<artifactId>postgresql</artifactId>
-			<scope>runtime</scope>
-		</dependency>
+			<dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>8.0.28</version>
+</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
